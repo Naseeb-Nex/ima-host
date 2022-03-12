@@ -59,7 +59,7 @@
        application. For more information, see:
        https://developers.google.com/web/fundamentals/primers/service-workers -->
   <script>
-    var serviceWorkerVersion = '412654839';
+    var serviceWorkerVersion = '3758569796';
     var scriptLoaded = false;
     function loadMainDartJs() {
       if (scriptLoaded) {
@@ -71,7 +71,7 @@
       scriptTag.type = 'application/javascript';
       document.body.append(scriptTag);
     }
-    try{
+
     if ('serviceWorker' in navigator) {
       // Service workers are supported. Use them.
       window.addEventListener('load', function () {
@@ -121,9 +121,6 @@
       // Service workers not supported. Just drop the <script> tag.
       loadMainDartJs();
     }
-  }catch(e){
-    print(e);
-  }
   </script>
 </body>
 </html>
