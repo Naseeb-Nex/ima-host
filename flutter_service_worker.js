@@ -57,7 +57,7 @@ const RESOURCES = {
 ".git/refs/remotes/orgin/master": "e753ec6d04df645f026d861213810cdb",
 ".git/refs/remotes/orgin/main": "e3d70bc9c43cff62779297b7dafe19ca",
 ".git/index": "f69feca0495836b6d9445c705468144f",
-".git/COMMIT_EDITMSG": "d778d8b1f42d0dd1bb284e5ca9549187",
+".git/COMMIT_EDITMSG": "972d3a6360b4242a0bdf68cd0b2839d3",
 ".git/FETCH_HEAD": "9faa0fe54180e00bf498cdbc02431ad4",
 "assets/AssetManifest.json": "1b2662a43fd79b533098ca7cdf9eafce",
 "assets/NOTICES": "53e836cf5ae3843b18b92e717ef792d7",
